@@ -1,0 +1,46 @@
+
+/* Class = "UILabel"; text = "如何使用"; ObjectID = "0hs-DQ-Dph"; */
+"0hs-DQ-Dph.text" = "使用说明";
+
+/* Class = "UIButton"; normalTitle = "👍赏个好评"; ObjectID = "3Xc-lk-hEG"; */
+"3Xc-lk-hEG.normalTitle" = "👍赏个好评";
+
+/* Class = "UILabel"; text = "1.开始测光，晃动手机直到光标变绿\n2.开始测量，点击底部按钮设置起点\n3.结束测量，点击底部按钮设置终点"; ObjectID = "MV1-MP-Wvn"; */
+"MV1-MP-Wvn.text" = "1.开始测光，晃动手机直到光标变绿\n2.开始测量，点击底部按钮设置起点\n3.结束测量，再次点击按钮设置终点";
+
+/* Class = "UILabel"; text = "AR量尺"; ObjectID = "Mmx-J4-YqB"; */
+"Mmx-J4-YqB.text" = "AR量尺";
+
+/* Class = "UIButton"; normalTitle = "🌅AR相册"; ObjectID = "O0P-tA-gM8"; */
+"O0P-tA-gM8.normalTitle" = "🌅AR相册";
+
+/* Class = "UIButton"; normalTitle = "🌕AR太阳系"; ObjectID = "UFy-CX-oBs"; */
+"UFy-CX-oBs.normalTitle" = "🌞AR太阳系";
+/* Class = "UIButton"; normalTitle = "🕹AR+Tetris"; ObjectID = "UFy-CX-oBs"; */
+"ZqD-2Y-IPc.normalTitle" = "🕹AR俄罗斯方块";
+
+/* Class = "UIButton"; normalTitle = "💡意见反馈"; ObjectID = "oWw-gJ-gkw"; */
+"oWw-gJ-gkw.normalTitle" = "💡意见反馈";
+
+/* Class = "UIButton"; normalTitle = "💡意见反馈"; ObjectID = "oWw-gJ-gkw"; */
+"6K3-ZF-u4T.normalTitle" = "📄版权说明";
+
+
+/* Class = "UILabel"; text = "点此开始测量"; ObjectID = "ysA-fs-nsi"; */
+"ysA-fs-nsi.text" = "点此开始测量";
+
+/* Class = "UILabel"; text = "点此开始测量"; ObjectID = "oQO-Bk-sHx"; */
+"oQO-Bk-sHx.normalTitle" = "🖌AR画笔";
+
+
+/* Class = "UILabel"; text = "点此开始测量"; ObjectID = "oQO-Bk-sHx"; */
+"WX7-hj-9LG.normalTitle" = "本软件使用了开源在 GPL 协议下的ARuler";
+
+/* Class = "UILabel"; text = "点此开始测量"; ObjectID = "oQO-Bk-sHx"; */
+"K1F-FM-FCB.normalTitle" = "的部分代码，同时也遵循 GPL 协议";
+
+/* Class = "UILabel"; text = "点此开始测量"; ObjectID = "oQO-Bk-sHx"; */
+"xnw-Jr-szm.normalTitle" = "ARluer homepage";
+
+/* Class = "UILabel"; text = "点此开始测量"; ObjectID = "oQO-Bk-sHx"; */
+"b7d-5S-QT6.normalTitle" = "ARluer license";

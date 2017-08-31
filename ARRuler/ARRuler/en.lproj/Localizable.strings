@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  ARuler
+
+  Created by wendao on 2017/8/23.
+  Copyright © 2017年 wendao. All rights reserved.
+*/
+
+"MOVE" = "Move your phone until the icon turn green";
+"RESTART" = "All measurements have been cleared";
+"RecordScreen" = "Record Screen";
+"StopRecord" = "Stop Recording";
+"StopRecordTop" = "Recording... Click here to stop";
+"FinishRecord" =  "If you saved the video, it can be found in your system album. You can share it to social platforms like facebook";
+"LogoImageName" = "logo_en";
+"IKnow" = "OK";
+"CaAuContent" = "Allow AR+Ruler to accesss your camera in Settings->Privacy->Camera";
+"DeAuContent" = "Sorry,apple's ARKit does not support your phone, so you can't use relevant functions of this app : )";
+"RecordFail" = "Record screen failed, please allow AR+Ruler to use recording permissions";
+

@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  ARuler
+
+  Created by wendao on 2017/8/23.
+  Copyright © 2017年 wendao. All rights reserved.
+*/
+
+"MOVE" = "左右移动手机开始测光，直到上面的图标变绿";
+"RESTART" = "已清空所有测量，开始新的测量吧～";
+"RecordScreen" = "录屏分享";
+"StopRecord" = "停止录屏";
+"StopRecordTop" = "录制视频中... 点此停止";
+"FinishRecord" = "如果你选择了保存视频，可以在你的系统相册找到它，分享到微信or朋友圈哦～";
+"LogoImageName" = "logo";
+"IKnow" = "我知道了";
+"CaAuContent" = "请在iPhone 设置-隐私-相机 选项中，允许AR量尺访问你的相机";
+"DeAuContent" = "很抱歉,苹果的ARKit不支持你的手机型号(需要6s机型及以上),所以你无法使用相关本app相关功能:)";
+"RecordFail" = "录屏失败，请允许AR量尺使用录屏权限";
+
